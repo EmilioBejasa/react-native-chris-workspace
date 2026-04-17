@@ -19,6 +19,7 @@ import com.facebook.react.interfaces.*
 class IsolatedTest {
     @Test
     fun simpleTest() {
+        // Sanity check: verifies the test runner itself is working correctly.
         assertTrue(true)
     }
 
